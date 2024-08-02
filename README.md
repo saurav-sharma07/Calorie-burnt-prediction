@@ -4,13 +4,8 @@
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This project aims to predict the number of calories burnt during physical activities using machine learning techniques. The model is trained on a dataset with 8 features and uses the XGBoost regressor to provide accurate predictions.
